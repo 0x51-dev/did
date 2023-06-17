@@ -1,0 +1,8 @@
+{
+  "id": "did:example:123456789abcdefghi",
+  "service": [{
+    "id":"did:example:123#linked-domain",
+    "type": "LinkedDomains",
+    "serviceEndpoint": "https://bar.example.com"
+  }]
+}

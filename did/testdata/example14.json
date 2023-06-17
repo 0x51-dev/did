@@ -1,0 +1,12 @@
+{
+  "id": "did:example:123456789abcdefghi",
+  "authentication": [
+    "did:example:123456789abcdefghi#keys-1",
+    {
+      "id": "did:example:123456789abcdefghi#keys-2",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:example:123456789abcdefghi",
+      "publicKeyMultibase": "zH3C2AVvLMv6gmMNam3uVAjZpfkcJCwDwnZn6z3wXmqPV"
+    }
+  ]
+}
